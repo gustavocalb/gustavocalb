@@ -17,6 +17,6 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=simplenote&theme=dark) &nbsp; ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=Eclipse-Lunar&theme=dark)
 
 
-## ⭐ Stats Card
+## ⭐ My Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FireShark688&show_icons=true&theme=midnight-purple)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireShark688&layout=compact&theme=midnight-purple)
 
