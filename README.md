@@ -15,7 +15,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJs | React Native
 - 🛢 &nbsp; MySql | Mongoose | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Android Studio | Git | Insomnia
-- 🖥 &nbsp; Illustrator | Photoshop  
+- 🖥 &nbsp; Figma
 
 ## 💻 Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=simplenote&theme=dark)](https://github.com/FireShark688/simplenote) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=Eclipse-Lunar&theme=dark)](https://github.com/FireShark688/Eclipse-Lunar)
