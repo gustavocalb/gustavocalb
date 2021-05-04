@@ -16,5 +16,6 @@
 
 
 ## ⭐ Stats Card
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FireShark688&show_icons=true&theme=midnight-purple)     ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FireShark688&langs_count=5&theme=midnight-purple)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FireShark688&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
