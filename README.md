@@ -15,7 +15,7 @@
 - 🖥 &nbsp; Illustrator | Photoshop  
 
 ## 💻 Projects:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=simplenote&theme=dark)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=Eclipse-Lunar&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=simplenote&theme=dark) &nbsp; ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=Eclipse-Lunar&theme=dark)
 
 
 ## ⭐ Stats Card
