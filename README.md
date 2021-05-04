@@ -10,7 +10,7 @@
 ## 🚀  Languages and Tools:
 - 💻 &nbsp; Node Js
 - 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJs | React Native
-- 🛢 &nbsp; Mongoose | MongoDB
+- 🛢 &nbsp; MySql | Mongoose | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Android Studio | Git | Insomnia
 - 🖥 &nbsp; Illustrator | Photoshop  
 
