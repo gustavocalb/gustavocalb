@@ -2,7 +2,9 @@
 # Gustavo Carvalho
 
 #### 🌐 Connect with Me:
-[![Twitter Badge](https://img.shields.io/badge/-@gustavocalb-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/gustavocalb)](https://twitter.com/dieegosf) [![Gmail Badge](https://img.shields.io/badge/-gugacalb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:gugacalb@gmail.com) [![Discord Badge](https://img.shields.io/badge/Discord-545454?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/gustavo-carvalho-25b3a2211/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
+[![Twitter Badge](https://img.shields.io/badge/-@gustavocalb-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/gustavocalb)](https://twitter.com/dieegosf) 
+[![Gmail Badge](https://img.shields.io/badge/-gugacalb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:gugacalb@gmail.com) 
+[![Discord Badge](https://img.shields.io/badge/Discord-545454?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/gustavo-carvalho-25b3a2211/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
 
 ## 🚀  Languages and Tools:
 - 💻 &nbsp; Node Js
