@@ -18,9 +18,9 @@
 - 🖥 &nbsp; Figma
 
 ## 💻 Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=simplenote&theme=dark)](https://github.com/FireShark688/simplenote) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=Eclipse-Lunar&theme=dark)](https://github.com/FireShark688/Eclipse-Lunar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavocalb&repo=simplenote&theme=dark)](https://github.com/FireShark688/simplenote) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FireShark688&repo=Eclipse-Lunar&theme=dark)](https://github.com/FireShark688/Eclipse-Lunar)
 
 
 ## ⭐ Stats Card
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FireShark688&show_icons=true&theme=midnight-purple) &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireShark688&layout=compact&theme=midnight-purple)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocalb&show_icons=true&theme=midnight-purple) &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireShark688&layout=compact&theme=midnight-purple)
 
