@@ -18,7 +18,7 @@
 - 🖥 &nbsp; Figma
 
 ## 💻 Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavocalb&repo=simplenote&theme=dark)](https://github.com/FireShark688/simplenote) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavocalb&repo=Eclipse-Lunar&theme=dark)](https://github.com/FireShark688/NLW4-Moveit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavocalb&repo=simplenote&theme=dark)](https://github.com/FireShark688/simplenote) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavocalb&repo=NLW4-Moveit&theme=dark)](https://github.com/FireShark688/NLW4-Moveit)
 
 
 ## ⭐ Stats Card
