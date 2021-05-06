@@ -6,11 +6,11 @@
 ### - 💜 Passionate about web development
 
 ## 🚀  Languages and Tools:
-- ###  💻 &nbsp; Node Js
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJs | React Native
-- 🛢 &nbsp; Mongoose | MongoDB
-- 🔧 &nbsp;  Visual Studio code | Android Studio | Git | Insomnia
-- 🖥 &nbsp; Figma
+- ### 💻 &nbsp; Node Js
+- ### 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJs | React Native
+- ### 🛢 &nbsp; Mongoose | MongoDB
+- ### 🔧 &nbsp;  Visual Studio code | Android Studio | Git | Insomnia
+- ### 🖥 &nbsp; Figma
 
 ## 💻 Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavocalb&repo=simplenote&theme=dark)](https://github.com/FireShark688/simplenote) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavocalb&repo=NLW4-Moveit&theme=dark)](https://github.com/FireShark688/NLW4-Moveit)
