@@ -18,7 +18,6 @@
 ### 🌐 Connect with Me:
 [![Twitter Badge](https://img.shields.io/badge/-@gustavocalb-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/gustavocalb)](https://twitter.com/dieegosf)  &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-contact.gustavocalb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:contact.gustavocalb@gmail.com)  &nbsp;
-[![Discord Badge](https://img.shields.io/badge/FireShark2202-545454?style=flat-square&logo=Discord&logoColor=white)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)
 
 ## ⭐ Stats Card
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocalb&show_icons=true&theme=midnight-purple) &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocalb&layout=compact&theme=midnight-purple)
