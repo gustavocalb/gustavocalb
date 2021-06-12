@@ -17,6 +17,7 @@
 
 ### 🌐 Connect with Me:
 [![Gmail Badge](https://img.shields.io/badge/-contact.gustavocalb@gmail.com-6633cc?style=flat- square&logo=Gmail&logoColor=white&link=mailto:contact.gustavocalb@gmail.com)](mailto:contact.gustavocalb@gmail.com)  &nbsp;
+
 [![Twitch Badge](https://img.shields.io/badge/-contact.gustavocalb@gmail.com-6633cc?style=flat- square&logo=Twicht&logoColor=white&link=mailto:https://twich.tv/fireshark68)](mailto:https://twich.tv/fireshark68)  &nbsp;
 
 ## ⭐ Stats Card
