@@ -20,7 +20,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@gustavocalb-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/gustavocalb)](https://twitter.com/gustavocalb) 
 [![Gmail Badge](https://img.shields.io/badge/-contact.gustavocalb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.gustavocalb@gmail.com)](mailto:contact.gustavocalb@gmail.com) 
 [![Discord Badge](https://img.shields.io/badge/Discord-545454?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/invite/qEn4NbTCpP)](https://discord.com/invite/qEn4NbTCpP)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-545454?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/invite/qEn4NbTCpP)](https://discord.com/invite/qEn4NbTCpP)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-545454?style=flat-square&logo=Twitch&logoColor=white&link=https://discord.com/invite/qEn4NbTCpP)](https://discord.com/invite/qEn4NbTCpP)
 
 ## ⭐ Stats Card
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocalb&show_icons=true&theme=midnight-purple) &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocalb&layout=compact&theme=midnight-purple)
